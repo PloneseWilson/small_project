@@ -1,5 +1,5 @@
-extra file required
-1. storage.json
-  storing link infos that are already been sent
-2. tokenstorage.json
-  storing discorb bot token
+A Discord bot that can 
+1. check whether someone sent a repeat link from Threads/Instagram/Bilibili
+2. track numbers of link each user sent every day / yesterday
+3. track numbers of repeat link each user has sent
+
