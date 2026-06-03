@@ -1,3 +1,7 @@
+Target
+  1. given a maze data structure, find the path with least cost considering abilities and rewards
+  2. given an image of a maze, find the same thing above
+
 Main Function: code.py  
   A* algorithm with BFS-based heuristic  
   Utility:  
